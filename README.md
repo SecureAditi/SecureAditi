@@ -1,4 +1,4 @@
-## Hi there, I'm [Aditi Manna]! 👋
+## Hi there, I'm Aditi Manna! 👋
 
 I am an aspiring **Open Source Contributor** with a strong interest in **Security Awareness** and **Technical Documentation**. While I am new to Computer Science, I am dedicated to helping the tech community by making projects safer and easier to understand for everyone.
 
@@ -20,7 +20,7 @@ For this year's **GirlScript Summer of Code**, I am focusing on:
 ![Security](https://shields.io)
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [https://www.linkedin.com/in/secureaditi/]
+- **LinkedIn:** https://www.linkedin.com/in/secureaditi/
 - **Learning Journal:** Check my repositories to see my daily progress!
 
 ---
