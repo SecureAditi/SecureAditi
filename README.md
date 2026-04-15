@@ -27,9 +27,12 @@ For this year's **GirlScript Summer of Code**, I am focusing on:
 *"The best way to secure the future is to learn how to protect the present."*
 
 
+## 🏆 Achievements
+- **Selected Contributor** for GirlScript Summer of Code (GSSoC) 2026 🚀
 
 
-
+<img width="1080" height="1080" alt="open" src="https://github.com/user-attachments/assets/e23a4a54-afae-47be-b1f1-cbe35be92a49" />
+<img width="810" height="810" alt="contributor" src="https://github.com/user-attachments/assets/25b8168c-560b-481c-a7bb-0ef3f9f89d1d" />
 
 <!--
 **SecureAditi/SecureAditi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
