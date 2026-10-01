@@ -33,6 +33,7 @@ For this year's **GirlScript Summer of Code**, I am focusing on:
 
 <img width="1080" height="1080" alt="open" src="https://github.com/user-attachments/assets/e23a4a54-afae-47be-b1f1-cbe35be92a49" />
 <img width="810" height="810" alt="contributor" src="https://github.com/user-attachments/assets/25b8168c-560b-481c-a7bb-0ef3f9f89d1d" />
+<img width="1129" height="795" alt="image" src="https://github.com/user-attachments/assets/1e13df59-c0c8-4ba0-be76-9dface214463" />
 
 <!--
 **SecureAditi/SecureAditi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
