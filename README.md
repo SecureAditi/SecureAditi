@@ -2,16 +2,11 @@
 
 I am an aspiring **Open Source Contributor** with a strong interest in **Security Awareness** and **Technical Documentation**. While I am new to Computer Science, I am dedicated to helping the tech community by making projects safer and easier to understand for everyone.
 
-### 🛡️ GSSoC 2026 Focus
-For this year's **GirlScript Summer of Code**, I am focusing on:
+### I am focusing on:
 - **Security Awareness:** Learning to identify common configuration risks and promoting data privacy.
 - **Trust & Safety:** Supporting initiatives that keep open-source communities secure.
 - **Documentation:** Bridging the gap between complex code and user-friendly guides.
 
-### 🌱 What I’m Learning Right Now
-- **OWASP Top 10:** Understanding the most critical web application security risks.
-- **Git & GitHub:** Mastering the workflow of open-source collaboration.
-- **Markdown:** Writing professional documentation for projects.
 
 ### 🛠️ Tools & Interests
 ![Git](https://shields.io) 
